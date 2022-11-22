@@ -1,4 +1,4 @@
-# boosted_technology_consent_api
+# Consent Api
 
 Install dependencies:
 `pip3 install -r requirements.txt`
